@@ -1,6 +1,6 @@
-## NOTAS
+# NOTAS
 
-# Verbos HTTP
+## Verbos HTTP
 
 - Utilizar verbos HTTP para as nossas requisições.
 
@@ -9,3 +9,6 @@
 - PUT -- Atualizar dados de um RESOURCE
 - DELETE -- Deletar um RESOURCE
 
+## Boas praticas
+
+- Não deixar uma / no final do endpoint
